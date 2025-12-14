@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+passlib[bcrypt]
+python-multipart
+requests
+python-jose
+websockets
+redis
+motor
+jinja2
